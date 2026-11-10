@@ -1,0 +1,1001 @@
+restaurant_id,restaurant_name,city,cuisine,rating,is_cloud_kitchen
+R0001,Elite's Express,Pune,Mexican,4.5,1
+R0002,The Delight,Kolkata,Desserts,3.0,1
+R0003,Fresh House,Pune,Italian,3.2,0
+R0004,Fresh Express,Delhi,Biryani,4.0,0
+R0005,Modern Junction,Hyderabad,Biryani,4.0,0
+R0006,Fresh Junction,Mumbai,Biryani,4.5,1
+R0007,Royal Palace,Delhi,Bakery,4.0,0
+R0008,Urban Paradise,Delhi,Japanese,4.0,0
+R0009,Fresh Delight,Chennai,Thai,4.5,0
+R0010,Fresh's Station,Mumbai,North Indian,4.0,1
+R0011,Spicy Spice,Ahmedabad,Continental,4.5,0
+R0012,Anand's Cafe,Mumbai,Pizza,4.7,0
+R0013,Classic's Corner,Delhi,Mexican,2.5,0
+R0014,Delhi's Junction,Mumbai,Mughlai,3.0,0
+R0015,Spicy Dhaba,Kolkata,Chinese,3.5,1
+R0016,Golden Restaurant,Mumbai,Mexican,4.5,0
+R0017,Classic Hub,Pune,Bakery,4.5,1
+R0018,Modern Junction,Bangalore,Mexican,2.5,0
+R0019,The Delight,Jaipur,Burger,4.5,0
+R0020,Classic Spice,Delhi,Italian,4.0,1
+R0021,Hub,Bangalore,Cafe,4.5,0
+R0022,Priya's Point,Chennai,Mughlai,5.0,0
+R0023,Tasty Kitchen,Kolkata,Italian,3.8,0
+R0024,Royal Hub,Bangalore,Thai,4.0,1
+R0025,Fresh Spice,Pune,Healthy Food,4.5,0
+R0026,Elite's Palace,Mumbai,Burger,3.5,1
+R0027,Urban Dhaba,Chennai,Fast Food,4.5,0
+R0028,The Spice,Delhi,Seafood,3.5,1
+R0029,Golden Dhaba,Mumbai,South Indian,3.8,0
+R0030,Tasty Delight,Bangalore,Mexican,4.5,0
+R0031,Royal Paradise,Pune,Fast Food,2.5,0
+R0032,Station,Lucknow,Beverages,4.7,1
+R0033,Spicy's Point,Bangalore,Seafood,3.5,1
+R0034,Fresh Corner,Pune,Fast Food,4.5,0
+R0035,Classic Station,Bangalore,Fast Food,3.2,0
+R0036,Golden Dhaba,Chennai,Chinese,4.5,0
+R0037,Modern Spice,Mumbai,Seafood,4.5,0
+R0038,Royal Point,Hyderabad,Italian,4.0,0
+R0039,Royal Zone,Mumbai,Italian,4.5,0
+R0040,Urban's Zone,Delhi,Beverages,4.0,0
+R0041,Fresh Delight,Hyderabad,Fast Food,4.5,0
+R0042,Urban Delight,Kolkata,Seafood,3.5,1
+R0043,Spicy Hub,Hyderabad,Seafood,3.0,0
+R0044,Golden Point,Ahmedabad,Mughlai,3.5,0
+R0045,Elite's Dhaba,Kolkata,Desserts,3.5,0
+R0046,The Kitchen,Mumbai,Pizza,4.5,0
+R0047,Anand's Zone,Bangalore,Italian,3.0,0
+R0048,Royal Corner,Chennai,Beverages,3.5,0
+R0049,Paradise,Ahmedabad,Italian,5.0,0
+R0050,Tasty Zone,Lucknow,Beverages,5.0,0
+R0051,Royal Junction,Kolkata,North Indian,5.0,1
+R0052,Golden's Paradise,Hyderabad,Chinese,3.8,0
+R0053,Royal Paradise,Chennai,Biryani,3.5,0
+R0054,Royal's Delight,Delhi,Pizza,3.5,1
+R0055,Golden Bistro,Delhi,Thai,4.0,0
+R0056,Chennai's Dhaba,Hyderabad,Japanese,3.2,0
+R0057,Premium's Dhaba,Pune,Seafood,5.0,0
+R0058,Spicy Dhaba,Jaipur,Seafood,4.0,0
+R0059,Modern Restaurant,Delhi,Biryani,3.5,0
+R0060,The Corner,Kolkata,Seafood,4.5,0
+R0061,Tasty House,Pune,Italian,4.0,1
+R0062,Modern's Dhaba,Hyderabad,Beverages,4.5,0
+R0063,Priya's Delight,Delhi,Fast Food,3.8,0
+R0064,Golden Cafe,Hyderabad,Bakery,4.5,0
+R0065,Classic Kitchen,Hyderabad,Mexican,3.8,0
+R0066,Modern Palace,Hyderabad,Continental,4.0,0
+R0067,Anand's Dhaba,Hyderabad,North Indian,4.5,1
+R0068,Royal Restaurant,Pune,Italian,3.2,1
+R0069,Royal Cafe,Mumbai,Fast Food,4.5,0
+R0070,Spicy Palace,Delhi,North Indian,4.5,0
+R0071,Priya's Restaurant,Hyderabad,Italian,4.5,1
+R0072,Modern Junction,Delhi,Cafe,3.2,0
+R0073,Modern's Station,Lucknow,Beverages,3.5,0
+R0074,Golden Paradise,Delhi,South Indian,4.0,0
+R0075,Classic Hub,Bangalore,Continental,4.0,1
+R0076,Modern Bistro,Pune,South Indian,3.2,0
+R0077,Tasty Express,Mumbai,Mughlai,4.2,1
+R0078,Grand's Paradise,Kolkata,Pizza,3.5,0
+R0079,Classic Zone,Hyderabad,Beverages,3.5,0
+R0080,Grand's Bistro,Mumbai,Beverages,3.8,0
+R0081,Royal Corner,Ahmedabad,Bakery,4.0,0
+R0082,Golden Delight,Mumbai,Mughlai,4.0,1
+R0083,Golden Cafe,Bangalore,Pizza,3.0,0
+R0084,Modern Spice,Mumbai,Pizza,4.0,0
+R0085,Golden Express,Mumbai,Pizza,4.5,0
+R0086,Kitchen,Pune,Japanese,4.0,0
+R0087,Spicy Point,Kolkata,Japanese,4.5,0
+R0088,Golden Bistro,Mumbai,Thai,3.2,0
+R0089,Urban Bistro,Hyderabad,Mughlai,3.5,0
+R0090,Station,Kolkata,Beverages,3.5,1
+R0091,Spicy Paradise,Pune,Burger,2.5,0
+R0092,Modern Corner,Bangalore,Chinese,5.0,1
+R0093,The Spice,Pune,Burger,4.0,0
+R0094,Grand's Spice,Bangalore,Continental,4.0,0
+R0095,Spice,Chennai,Cafe,4.0,0
+R0096,Urban Dhaba,Lucknow,Fast Food,4.5,1
+R0097,The Grill,Delhi,Mughlai,3.5,0
+R0098,Spicy Point,Mumbai,Italian,4.5,1
+R0099,Junction,Delhi,Street Food,3.5,0
+R0100,Grand's Kitchen,Mumbai,Japanese,5.0,0
+R0101,Modern Junction,Delhi,Cafe,4.0,0
+R0102,Golden's Corner,Chennai,Mexican,4.5,0
+R0103,Spicy Dhaba,Bangalore,Mughlai,3.0,0
+R0104,Modern Zone,Delhi,Italian,3.5,1
+R0105,Golden Point,Delhi,Bakery,4.5,1
+R0106,Classic Paradise,Mumbai,Beverages,5.0,1
+R0107,Fresh Delight,Bangalore,Desserts,4.5,1
+R0108,Classic Corner,Hyderabad,Seafood,4.5,1
+R0109,Spicy Station,Mumbai,Italian,3.5,1
+R0110,Royal Grill,Lucknow,Mexican,4.5,0
+R0111,Mumbai's Zone,Bangalore,Biryani,3.5,0
+R0112,Fresh Dhaba,Jaipur,Continental,3.5,0
+R0113,Tasty Spice,Mumbai,Italian,5.0,0
+R0114,The Hub,Kolkata,Burger,3.2,1
+R0115,Golden Corner,Hyderabad,North Indian,4.5,0
+R0116,Classic's Express,Kolkata,Italian,5.0,0
+R0117,Urban Kitchen,Hyderabad,Italian,4.7,0
+R0118,Spicy's Palace,Jaipur,Biryani,3.5,0
+R0119,Tasty Zone,Hyderabad,South Indian,4.2,0
+R0120,Anand's Kitchen,Kolkata,Pizza,4.5,0
+R0121,Classic Palace,Pune,Mexican,5.0,0
+R0122,The House,Chennai,Continental,4.5,0
+R0123,Priya's Point,Bangalore,Biryani,4.5,0
+R0124,Golden Corner,Delhi,Italian,4.5,0
+R0125,Spicy's Dhaba,Pune,Thai,4.0,0
+R0126,Golden Delight,Bangalore,Japanese,3.8,0
+R0127,Urban Dhaba,Hyderabad,Burger,3.5,0
+R0128,Spice,Mumbai,Fast Food,4.0,1
+R0129,Tasty's Hub,Bangalore,Street Food,3.0,0
+R0130,Spicy Hub,Chennai,Beverages,4.0,1
+R0131,Grand's Point,Hyderabad,Fast Food,4.0,1
+R0132,Golden's Corner,Bangalore,Burger,3.0,1
+R0133,Tasty's House,Delhi,Desserts,4.5,0
+R0134,Elite's Junction,Delhi,North Indian,4.5,0
+R0135,Urban Dhaba,Chennai,Continental,3.5,0
+R0136,Golden Delight,Delhi,Continental,4.0,0
+R0137,Urban Restaurant,Hyderabad,Desserts,4.2,1
+R0138,Royal's Dhaba,Hyderabad,Japanese,3.5,0
+R0139,The Spice,Lucknow,Fast Food,4.0,1
+R0140,Paradise,Mumbai,Japanese,3.0,1
+R0141,Chennai's Palace,Mumbai,Healthy Food,3.5,0
+R0142,The Hub,Bangalore,Chinese,4.5,0
+R0143,The Palace,Bangalore,Street Food,4.0,0
+R0144,Royal's Hub,Mumbai,Fast Food,4.5,0
+R0145,Modern Grill,Kolkata,North Indian,3.5,0
+R0146,Golden's Station,Bangalore,Continental,4.5,1
+R0147,Royal Corner,Delhi,Mexican,5.0,0
+R0148,Classic Bistro,Delhi,Street Food,3.5,0
+R0149,The Palace,Pune,Desserts,3.0,0
+R0150,Classic Restaurant,Mumbai,Fast Food,3.5,0
+R0151,Tasty Restaurant,Mumbai,Street Food,4.5,0
+R0152,Spicy House,Delhi,Burger,3.5,0
+R0153,Spicy Paradise,Hyderabad,Bakery,4.5,0
+R0154,Tasty Paradise,Kolkata,Cafe,3.5,0
+R0155,Golden Restaurant,Delhi,South Indian,3.5,0
+R0156,Modern Junction,Mumbai,Cafe,3.0,0
+R0157,Golden Point,Delhi,Healthy Food,4.0,1
+R0158,Fresh's Hub,Hyderabad,Japanese,3.5,0
+R0159,Classic Hub,Delhi,North Indian,4.0,0
+R0160,Point,Pune,Beverages,4.5,0
+R0161,Tasty Hub,Mumbai,Continental,4.0,0
+R0162,Delhi's Grill,Mumbai,Mughlai,4.5,1
+R0163,Urban Kitchen,Mumbai,Biryani,4.5,1
+R0164,Modern's Zone,Pune,Seafood,4.5,0
+R0165,Modern Hub,Hyderabad,Burger,3.8,1
+R0166,Royal Station,Jaipur,Healthy Food,4.0,1
+R0167,Bangalore's Restaurant,Delhi,Bakery,3.5,0
+R0168,Tasty Point,Delhi,Japanese,4.5,1
+R0169,Tasty Cafe,Hyderabad,Healthy Food,4.5,0
+R0170,The Corner,Bangalore,Beverages,4.5,0
+R0171,Spicy Point,Hyderabad,South Indian,3.0,1
+R0172,Modern House,Delhi,Burger,4.5,0
+R0173,The House,Mumbai,Healthy Food,3.8,1
+R0174,Urban Paradise,Mumbai,Healthy Food,4.0,0
+R0175,Classic Cafe,Chennai,Continental,4.2,1
+R0176,Bistro,Bangalore,Chinese,4.0,0
+R0177,Golden Bistro,Kolkata,South Indian,3.5,0
+R0178,Cafe,Delhi,Cafe,4.0,0
+R0179,The Junction,Kolkata,Mexican,4.5,1
+R0180,Golden Paradise,Bangalore,Fast Food,4.5,0
+R0181,Grand's House,Mumbai,Beverages,4.5,0
+R0182,Mumbai's Delight,Lucknow,South Indian,4.5,0
+R0183,Spicy Junction,Bangalore,North Indian,3.0,0
+R0184,Classic Paradise,Hyderabad,Street Food,4.0,1
+R0185,Classic's Junction,Chennai,Biryani,4.0,0
+R0186,Fresh Delight,Delhi,South Indian,4.7,0
+R0187,Fresh Spice,Chennai,Thai,4.0,0
+R0188,Tasty's Delight,Pune,Chinese,3.2,0
+R0189,Fresh Point,Bangalore,North Indian,4.0,0
+R0190,Tasty Hub,Hyderabad,Mughlai,3.5,1
+R0191,Ravi's Grill,Chennai,Healthy Food,4.0,1
+R0192,The Kitchen,Mumbai,Continental,4.0,0
+R0193,Priya's Spice,Delhi,Beverages,4.2,0
+R0194,Classic Hub,Mumbai,Cafe,4.5,1
+R0195,Spicy Junction,Hyderabad,Continental,3.8,0
+R0196,Golden Station,Kolkata,Thai,5.0,0
+R0197,Classic Hub,Hyderabad,Desserts,4.5,0
+R0198,Golden Express,Mumbai,Fast Food,4.5,0
+R0199,Urban Paradise,Hyderabad,Bakery,4.5,0
+R0200,Classic Palace,Kolkata,Thai,4.5,1
+R0201,Cafe,Delhi,Beverages,4.0,0
+R0202,Spicy Spice,Kolkata,Chinese,4.0,1
+R0203,Restaurant,Kolkata,Bakery,4.5,0
+R0204,Anand's Paradise,Mumbai,Burger,3.0,0
+R0205,Spicy House,Delhi,Seafood,4.5,0
+R0206,The Zone,Hyderabad,Biryani,2.5,1
+R0207,Delhi's Point,Chennai,Seafood,4.5,0
+R0208,Classic Bistro,Pune,Fast Food,4.5,0
+R0209,Urban Dhaba,Hyderabad,Healthy Food,4.0,1
+R0210,Station,Bangalore,Bakery,5.0,1
+R0211,Fresh Cafe,Mumbai,Street Food,4.0,1
+R0212,Spicy Kitchen,Kolkata,Seafood,4.2,0
+R0213,Spice,Delhi,Burger,4.7,1
+R0214,Classic Restaurant,Chennai,Mexican,3.2,0
+R0215,Fresh Station,Mumbai,Fast Food,3.5,1
+R0216,Modern Restaurant,Mumbai,Street Food,4.0,1
+R0217,Tasty's Dhaba,Delhi,Burger,3.8,1
+R0218,Fresh Point,Delhi,Italian,5.0,1
+R0219,Paradise,Hyderabad,Burger,3.2,0
+R0220,Grand's Hub,Mumbai,Fast Food,4.5,1
+R0221,Urban Bistro,Ahmedabad,Pizza,4.5,0
+R0222,Modern Kitchen,Hyderabad,Seafood,3.5,1
+R0223,Tasty Corner,Bangalore,Biryani,5.0,1
+R0224,Spice,Bangalore,Japanese,4.5,0
+R0225,Spicy Point,Hyderabad,Biryani,3.5,0
+R0226,Royal Bistro,Mumbai,Fast Food,4.0,1
+R0227,Premium's Paradise,Lucknow,Cafe,4.5,0
+R0228,Classic Cafe,Hyderabad,Burger,4.5,0
+R0229,Modern Grill,Mumbai,Bakery,3.5,0
+R0230,Modern's Palace,Hyderabad,Pizza,4.0,0
+R0231,Golden's Station,Bangalore,North Indian,3.5,0
+R0232,Spicy's Grill,Mumbai,Healthy Food,4.0,0
+R0233,Urban Grill,Ahmedabad,South Indian,3.8,0
+R0234,Bangalore's Delight,Mumbai,Desserts,4.5,1
+R0235,Royal's Kitchen,Hyderabad,Fast Food,4.5,0
+R0236,House,Jaipur,Street Food,5.0,0
+R0237,Bangalore's Palace,Delhi,Thai,4.0,0
+R0238,Fresh Junction,Delhi,Cafe,5.0,0
+R0239,Modern House,Mumbai,Street Food,4.2,0
+R0240,Golden Restaurant,Mumbai,Chinese,4.5,1
+R0241,Mumbai's Station,Mumbai,Pizza,4.0,0
+R0242,Urban Grill,Kolkata,Mughlai,4.5,0
+R0243,The Grill,Kolkata,Mughlai,3.2,1
+R0244,Urban Delight,Chennai,Thai,3.5,0
+R0245,Spicy Paradise,Delhi,Seafood,4.0,0
+R0246,The Paradise,Kolkata,Street Food,3.2,1
+R0247,The Hub,Bangalore,Chinese,3.8,0
+R0248,Fresh Zone,Delhi,Chinese,4.5,1
+R0249,Classic's Restaurant,Bangalore,Bakery,4.0,0
+R0250,Royal Point,Mumbai,Seafood,4.0,0
+R0251,Bangalore's Restaurant,Jaipur,Seafood,4.5,1
+R0252,The Junction,Hyderabad,Fast Food,3.8,0
+R0253,Spicy Delight,Chennai,Chinese,3.5,0
+R0254,Modern Point,Chennai,Biryani,4.0,1
+R0255,Royal Kitchen,Chennai,Mexican,3.2,0
+R0256,Urban's Restaurant,Mumbai,Street Food,4.0,1
+R0257,Junction,Bangalore,Beverages,5.0,1
+R0258,Tasty's Corner,Kolkata,Cafe,4.0,0
+R0259,Spicy House,Mumbai,South Indian,5.0,0
+R0260,Royal's Grill,Jaipur,Thai,4.7,0
+R0261,The Spice,Bangalore,North Indian,4.0,1
+R0262,Fresh's Dhaba,Delhi,Healthy Food,5.0,0
+R0263,Elite's Spice,Bangalore,North Indian,4.7,0
+R0264,Anand's Cafe,Kolkata,Healthy Food,4.7,0
+R0265,Urban's Station,Bangalore,Healthy Food,4.0,0
+R0266,Royal Bistro,Hyderabad,Thai,4.5,0
+R0267,Tasty's Bistro,Bangalore,North Indian,4.0,1
+R0268,Priya's Paradise,Hyderabad,Burger,4.0,0
+R0269,Restaurant,Mumbai,Burger,4.5,0
+R0270,Spicy's Station,Mumbai,Beverages,4.0,1
+R0271,Tasty's Delight,Mumbai,Seafood,4.5,0
+R0272,Mumbai's Junction,Delhi,Beverages,4.5,1
+R0273,Point,Delhi,Seafood,3.2,0
+R0274,Royal Grill,Hyderabad,Mughlai,5.0,0
+R0275,Classic Cafe,Bangalore,Mughlai,4.0,1
+R0276,Modern Spice,Mumbai,Japanese,4.5,0
+R0277,Corner,Mumbai,Biryani,5.0,0
+R0278,Urban Express,Mumbai,Thai,3.5,0
+R0279,Modern Station,Delhi,Cafe,3.0,1
+R0280,Mumbai's Point,Mumbai,Japanese,2.5,1
+R0281,Royal's Hub,Bangalore,Pizza,3.5,0
+R0282,Royal Hub,Delhi,Bakery,3.2,1
+R0283,Tasty's Express,Hyderabad,Bakery,3.2,0
+R0284,The Palace,Chennai,Continental,4.5,0
+R0285,Ravi's Hub,Delhi,Chinese,5.0,1
+R0286,Royal Dhaba,Mumbai,Street Food,4.0,1
+R0287,Modern Bistro,Delhi,Burger,2.5,0
+R0288,Golden Zone,Mumbai,North Indian,5.0,0
+R0289,Anand's House,Mumbai,Mexican,3.5,0
+R0290,Royal Express,Chennai,Seafood,4.5,1
+R0291,Golden Kitchen,Delhi,Thai,4.5,1
+R0292,The House,Lucknow,Chinese,3.0,0
+R0293,Tasty Cafe,Mumbai,Mughlai,4.2,1
+R0294,Classic Cafe,Kolkata,Desserts,4.0,1
+R0295,Mumbai's Bistro,Chennai,Burger,4.5,1
+R0296,Royal Bistro,Delhi,Desserts,3.5,0
+R0297,Mumbai's Corner,Delhi,Thai,4.5,0
+R0298,Urban Junction,Hyderabad,Desserts,5.0,0
+R0299,Bangalore's Delight,Pune,Fast Food,4.5,0
+R0300,Modern Dhaba,Bangalore,Fast Food,5.0,1
+R0301,Golden Kitchen,Mumbai,Thai,4.5,1
+R0302,Golden Junction,Delhi,Seafood,4.0,0
+R0303,Urban's Delight,Delhi,Mexican,4.0,1
+R0304,Modern Grill,Ahmedabad,Mexican,3.5,0
+R0305,Royal Spice,Chennai,Italian,3.0,0
+R0306,Spicy Restaurant,Mumbai,Biryani,3.5,0
+R0307,Spicy Bistro,Delhi,Biryani,3.8,0
+R0308,Urban's Station,Mumbai,South Indian,4.7,0
+R0309,Bangalore's Cafe,Kolkata,Mexican,3.5,0
+R0310,Ravi's Hub,Ahmedabad,Mughlai,4.0,1
+R0311,The Grill,Mumbai,Chinese,3.5,0
+R0312,Golden's Restaurant,Bangalore,Thai,5.0,0
+R0313,Modern Spice,Ahmedabad,Beverages,4.5,0
+R0314,Classic's Kitchen,Mumbai,Italian,4.5,1
+R0315,Royal Dhaba,Delhi,Seafood,4.5,0
+R0316,Fresh Kitchen,Delhi,Bakery,4.5,1
+R0317,Modern Junction,Mumbai,Biryani,4.0,0
+R0318,Fresh's Palace,Mumbai,Thai,3.5,0
+R0319,Tasty's Spice,Jaipur,Italian,3.0,1
+R0320,The Delight,Hyderabad,Italian,4.0,0
+R0321,Modern Kitchen,Delhi,North Indian,3.2,0
+R0322,Golden Zone,Delhi,Mughlai,4.0,0
+R0323,Spicy's Point,Chennai,Bakery,3.5,0
+R0324,Urban Bistro,Delhi,Healthy Food,3.8,1
+R0325,Tasty Kitchen,Delhi,Beverages,3.5,0
+R0326,Golden Palace,Mumbai,Mexican,3.5,0
+R0327,Delhi's Spice,Chennai,Italian,2.5,0
+R0328,Tasty's Zone,Mumbai,Street Food,4.5,0
+R0329,Classic Point,Mumbai,Bakery,4.0,0
+R0330,Chennai's Bistro,Bangalore,Street Food,5.0,0
+R0331,Spicy's House,Mumbai,Japanese,4.5,0
+R0332,Station,Jaipur,Thai,3.0,0
+R0333,Mumbai's House,Hyderabad,Mughlai,4.5,0
+R0334,Fresh Dhaba,Mumbai,North Indian,4.5,0
+R0335,Spicy's Restaurant,Mumbai,Mexican,4.2,0
+R0336,Fresh House,Hyderabad,North Indian,4.2,1
+R0337,Tasty Spice,Delhi,Desserts,4.0,0
+R0338,Spicy's Corner,Kolkata,Chinese,4.5,1
+R0339,Classic House,Hyderabad,Healthy Food,3.5,0
+R0340,Spicy's House,Bangalore,Street Food,3.5,1
+R0341,Premium's House,Jaipur,Healthy Food,4.0,0
+R0342,Urban Paradise,Bangalore,Continental,4.5,0
+R0343,Golden Palace,Bangalore,Continental,4.5,1
+R0344,Spicy Bistro,Chennai,Street Food,4.0,1
+R0345,Spicy Dhaba,Kolkata,Desserts,5.0,0
+R0346,Royal House,Hyderabad,Continental,5.0,0
+R0347,Golden Dhaba,Chennai,Bakery,4.5,0
+R0348,Fresh Kitchen,Delhi,Healthy Food,3.5,0
+R0349,Tasty's Dhaba,Bangalore,Pizza,5.0,0
+R0350,Urban Cafe,Mumbai,Cafe,3.2,1
+R0351,Golden Delight,Chennai,South Indian,3.5,0
+R0352,Bangalore's Hub,Delhi,Biryani,4.0,0
+R0353,Tasty House,Mumbai,Fast Food,4.7,0
+R0354,The Grill,Ahmedabad,Biryani,4.5,1
+R0355,Modern Paradise,Delhi,Burger,4.5,1
+R0356,Royal Zone,Mumbai,Italian,3.5,0
+R0357,Tasty's Kitchen,Delhi,Continental,4.5,0
+R0358,Golden Spice,Delhi,Pizza,4.0,0
+R0359,Urban Delight,Bangalore,Chinese,3.5,0
+R0360,Priya's Hub,Mumbai,Cafe,4.5,0
+R0361,Modern Palace,Mumbai,Chinese,3.5,1
+R0362,Spicy Spice,Delhi,Pizza,4.5,1
+R0363,Junction,Delhi,Mughlai,4.2,0
+R0364,Delhi's Junction,Mumbai,Seafood,4.5,0
+R0365,Mumbai's Spice,Bangalore,Street Food,4.5,0
+R0366,Golden Palace,Delhi,Thai,4.0,0
+R0367,Urban Restaurant,Mumbai,Beverages,3.5,1
+R0368,Fresh Cafe,Pune,Cafe,4.2,0
+R0369,Anand's Bistro,Pune,Mexican,3.5,0
+R0370,Classic Grill,Delhi,Continental,3.5,1
+R0371,Chennai's Zone,Mumbai,Italian,4.5,0
+R0372,Classic Bistro,Hyderabad,Chinese,4.5,1
+R0373,Urban's Kitchen,Hyderabad,Fast Food,4.0,1
+R0374,Royal Restaurant,Jaipur,Cafe,3.5,1
+R0375,Modern Corner,Delhi,Mexican,5.0,0
+R0376,Chennai's Dhaba,Hyderabad,Seafood,4.0,0
+R0377,Grill,Pune,Bakery,3.5,0
+R0378,Mumbai's Spice,Bangalore,Street Food,4.0,0
+R0379,House,Mumbai,Healthy Food,4.0,1
+R0380,Urban's Express,Delhi,Biryani,4.5,0
+R0381,Tasty Zone,Mumbai,Chinese,4.5,0
+R0382,Point,Mumbai,Chinese,5.0,0
+R0383,Tasty Station,Chennai,Beverages,4.0,1
+R0384,Classic Paradise,Delhi,Mughlai,3.5,0
+R0385,Tasty Corner,Mumbai,Biryani,3.0,0
+R0386,Fresh Grill,Pune,Street Food,4.0,0
+R0387,Modern Corner,Bangalore,Italian,3.0,1
+R0388,Grand's Corner,Delhi,North Indian,4.0,0
+R0389,Fresh Express,Delhi,Burger,3.5,0
+R0390,Fresh's Hub,Delhi,Pizza,4.5,0
+R0391,Royal Zone,Mumbai,Japanese,4.0,0
+R0392,Modern Express,Pune,Fast Food,3.5,1
+R0393,Tasty Kitchen,Mumbai,Street Food,4.0,1
+R0394,Fresh Delight,Hyderabad,South Indian,4.0,0
+R0395,Modern Grill,Mumbai,Bakery,4.5,0
+R0396,Grand's Express,Jaipur,Mexican,4.0,0
+R0397,Golden's Zone,Hyderabad,Seafood,3.5,1
+R0398,Spicy House,Ahmedabad,Desserts,4.0,0
+R0399,The Bistro,Bangalore,North Indian,4.0,1
+R0400,Premium's Dhaba,Kolkata,North Indian,5.0,1
+R0401,Elite's Zone,Pune,Street Food,4.7,1
+R0402,Delhi's Kitchen,Chennai,Burger,3.0,1
+R0403,Tasty Hub,Mumbai,Italian,4.5,0
+R0404,Chennai's House,Mumbai,Pizza,4.0,1
+R0405,Hub,Mumbai,North Indian,3.5,1
+R0406,Delhi's House,Mumbai,Street Food,3.0,0
+R0407,Ravi's Dhaba,Chennai,Bakery,3.2,1
+R0408,Royal Palace,Hyderabad,Beverages,4.0,1
+R0409,Fresh Junction,Bangalore,Burger,4.7,1
+R0410,Mumbai's Spice,Delhi,Thai,4.0,0
+R0411,Royal Palace,Mumbai,Chinese,3.5,0
+R0412,Tasty Corner,Delhi,South Indian,5.0,0
+R0413,House,Bangalore,South Indian,3.8,1
+R0414,Tasty Zone,Chennai,Continental,5.0,1
+R0415,Urban Hub,Delhi,Chinese,4.5,0
+R0416,Grand's Restaurant,Chennai,Pizza,4.0,0
+R0417,Tasty Junction,Bangalore,Continental,3.5,1
+R0418,Royal's Palace,Pune,Beverages,4.0,0
+R0419,Classic Express,Delhi,Chinese,4.0,0
+R0420,Zone,Bangalore,Desserts,4.2,1
+R0421,Anand's Kitchen,Mumbai,North Indian,4.5,0
+R0422,Fresh Junction,Delhi,Burger,5.0,0
+R0423,Grand's Station,Bangalore,Chinese,4.0,1
+R0424,Modern Station,Chennai,Cafe,4.5,0
+R0425,Spicy Cafe,Mumbai,South Indian,2.5,1
+R0426,Modern Grill,Delhi,Continental,4.5,0
+R0427,Grand's Grill,Hyderabad,Pizza,4.0,0
+R0428,Golden Restaurant,Bangalore,Desserts,4.5,0
+R0429,Corner,Bangalore,Bakery,4.5,0
+R0430,Fresh Hub,Kolkata,Chinese,4.7,0
+R0431,Urban Grill,Bangalore,Bakery,4.0,0
+R0432,Urban's Kitchen,Hyderabad,Burger,3.5,0
+R0433,Urban Hub,Hyderabad,Healthy Food,4.5,0
+R0434,Bangalore's Express,Kolkata,Burger,4.0,0
+R0435,Fresh's Palace,Hyderabad,Cafe,4.5,0
+R0436,Classic Spice,Mumbai,Biryani,3.5,0
+R0437,Chennai's Restaurant,Delhi,Fast Food,3.8,0
+R0438,Modern Hub,Lucknow,Chinese,2.5,0
+R0439,Modern Zone,Mumbai,Beverages,3.5,0
+R0440,Classic Dhaba,Hyderabad,Seafood,3.5,1
+R0441,Modern's Spice,Pune,Mughlai,4.5,0
+R0442,Spicy's Point,Hyderabad,Seafood,5.0,0
+R0443,Tasty House,Delhi,Healthy Food,4.0,1
+R0444,Modern's House,Mumbai,North Indian,3.5,0
+R0445,Golden Express,Delhi,Biryani,4.5,0
+R0446,Modern Corner,Mumbai,Continental,4.5,0
+R0447,Bangalore's Bistro,Jaipur,North Indian,4.0,0
+R0448,Chennai's Grill,Chennai,Desserts,4.5,0
+R0449,Modern Express,Chennai,Biryani,4.2,0
+R0450,Fresh Zone,Bangalore,Beverages,3.5,1
+R0451,Golden's Hub,Mumbai,Healthy Food,4.5,0
+R0452,Urban Spice,Delhi,Desserts,3.5,0
+R0453,Tasty Point,Delhi,Biryani,4.0,0
+R0454,The House,Bangalore,Biryani,3.5,0
+R0455,Spicy Kitchen,Bangalore,Beverages,4.0,0
+R0456,Modern Station,Bangalore,Beverages,5.0,1
+R0457,Royal Express,Bangalore,Continental,4.5,1
+R0458,Golden's Hub,Lucknow,Italian,4.0,1
+R0459,Modern Palace,Delhi,South Indian,3.0,0
+R0460,Modern Cafe,Hyderabad,Bakery,4.5,1
+R0461,Elite's Paradise,Delhi,Thai,3.5,0
+R0462,Spicy Station,Bangalore,Chinese,4.0,0
+R0463,Golden's Express,Delhi,South Indian,4.5,0
+R0464,Spicy's Junction,Hyderabad,North Indian,3.2,1
+R0465,Royal Dhaba,Delhi,Beverages,3.5,0
+R0466,The Paradise,Mumbai,Japanese,4.5,0
+R0467,Urban House,Kolkata,North Indian,3.0,1
+R0468,Elite's Restaurant,Mumbai,Chinese,4.5,0
+R0469,Classic's Delight,Delhi,North Indian,4.5,0
+R0470,Tasty Bistro,Bangalore,Beverages,5.0,0
+R0471,Tasty Palace,Bangalore,Italian,4.5,0
+R0472,Royal's Dhaba,Chennai,Biryani,4.0,0
+R0473,Urban Restaurant,Hyderabad,Italian,4.0,0
+R0474,Classic's Hub,Delhi,Street Food,3.5,0
+R0475,Spicy Delight,Mumbai,Mexican,4.5,1
+R0476,Golden Dhaba,Kolkata,Thai,3.2,1
+R0477,Spicy Grill,Delhi,Mexican,4.5,1
+R0478,Classic Station,Pune,Cafe,4.5,0
+R0479,Tasty Bistro,Bangalore,Seafood,4.0,0
+R0480,Urban Paradise,Chennai,Beverages,4.0,0
+R0481,Golden's Cafe,Ahmedabad,Continental,4.0,1
+R0482,Urban Bistro,Hyderabad,South Indian,3.5,1
+R0483,Premium's Bistro,Bangalore,Healthy Food,4.0,1
+R0484,Golden Point,Hyderabad,Continental,5.0,0
+R0485,Golden Hub,Hyderabad,Continental,4.0,0
+R0486,Anand's Dhaba,Hyderabad,Street Food,4.5,1
+R0487,Royal Station,Mumbai,Mughlai,5.0,0
+R0488,The Restaurant,Chennai,Thai,4.0,0
+R0489,Royal's Restaurant,Mumbai,Bakery,5.0,1
+R0490,Modern Spice,Mumbai,Cafe,4.0,0
+R0491,Golden Hub,Hyderabad,Continental,4.0,0
+R0492,Fresh Dhaba,Mumbai,Chinese,4.0,0
+R0493,Royal Palace,Kolkata,Healthy Food,3.5,0
+R0494,Spice,Pune,Japanese,4.5,0
+R0495,Elite's House,Jaipur,Chinese,3.2,0
+R0496,Spicy's Palace,Chennai,Pizza,4.0,1
+R0497,Spice,Bangalore,Mughlai,3.5,0
+R0498,Cafe,Delhi,Burger,4.0,0
+R0499,Classic Junction,Bangalore,Seafood,4.5,0
+R0500,The House,Mumbai,Burger,4.0,0
+R0501,House,Delhi,Healthy Food,4.5,0
+R0502,Urban House,Chennai,Burger,4.5,1
+R0503,The House,Delhi,Cafe,4.0,0
+R0504,Bangalore's Hub,Delhi,Healthy Food,4.7,0
+R0505,Spicy Paradise,Chennai,Bakery,4.0,1
+R0506,Bangalore's Kitchen,Mumbai,Healthy Food,4.2,0
+R0507,Spicy Zone,Delhi,Cafe,4.0,0
+R0508,Fresh Station,Mumbai,Thai,3.5,0
+R0509,Classic Restaurant,Chennai,Chinese,5.0,0
+R0510,Tasty Station,Hyderabad,Biryani,4.5,0
+R0511,Classic Hub,Chennai,Pizza,5.0,0
+R0512,Grand's Zone,Delhi,Healthy Food,4.0,0
+R0513,Mumbai's Delight,Chennai,Cafe,3.8,1
+R0514,Restaurant,Hyderabad,Chinese,3.5,0
+R0515,Classic Dhaba,Delhi,Continental,3.0,0
+R0516,Bangalore's Point,Bangalore,Biryani,4.0,0
+R0517,Classic's Grill,Hyderabad,Mughlai,5.0,0
+R0518,Modern Bistro,Bangalore,Burger,4.5,0
+R0519,Modern Point,Hyderabad,Chinese,4.0,0
+R0520,The Grill,Mumbai,Burger,4.0,1
+R0521,Dhaba,Hyderabad,Seafood,3.5,1
+R0522,Tasty's Grill,Bangalore,Street Food,4.0,0
+R0523,Classic Paradise,Bangalore,Mughlai,4.5,1
+R0524,Urban Point,Bangalore,Cafe,4.5,0
+R0525,Grand's Kitchen,Pune,Fast Food,4.5,0
+R0526,Chennai's Corner,Kolkata,South Indian,3.8,1
+R0527,Classic Point,Hyderabad,Desserts,3.5,1
+R0528,Tasty House,Chennai,Pizza,4.0,0
+R0529,Fresh Delight,Mumbai,Healthy Food,4.5,0
+R0530,Spicy House,Chennai,Street Food,4.5,0
+R0531,Palace,Bangalore,South Indian,4.5,0
+R0532,Royal Station,Delhi,Desserts,3.2,1
+R0533,Urban Palace,Mumbai,Thai,4.5,0
+R0534,Fresh Delight,Mumbai,Italian,3.0,0
+R0535,Golden Palace,Mumbai,Seafood,3.5,0
+R0536,Tasty's Junction,Mumbai,Desserts,5.0,0
+R0537,Golden Spice,Mumbai,Mexican,4.5,1
+R0538,Fresh Grill,Chennai,Mexican,3.5,1
+R0539,Tasty Junction,Delhi,Pizza,3.5,0
+R0540,Fresh Delight,Delhi,Bakery,4.5,0
+R0541,Urban Zone,Kolkata,Pizza,4.5,0
+R0542,Tasty Palace,Mumbai,Chinese,3.5,0
+R0543,The Dhaba,Kolkata,Cafe,4.5,0
+R0544,Tasty Junction,Hyderabad,Street Food,4.0,0
+R0545,Urban Bistro,Delhi,Desserts,3.8,0
+R0546,Spicy Hub,Mumbai,Italian,4.0,0
+R0547,Mumbai's Junction,Mumbai,Burger,4.5,1
+R0548,Spicy Paradise,Delhi,Burger,4.5,0
+R0549,Modern Kitchen,Mumbai,North Indian,3.0,1
+R0550,Fresh Spice,Delhi,Healthy Food,4.5,0
+R0551,Classic Hub,Mumbai,Seafood,3.5,1
+R0552,Golden's Cafe,Hyderabad,Japanese,4.5,0
+R0553,Spicy Hub,Mumbai,Beverages,4.5,1
+R0554,Golden's Spice,Chennai,South Indian,3.0,0
+R0555,The Corner,Delhi,Street Food,4.0,1
+R0556,Modern Junction,Kolkata,Italian,5.0,1
+R0557,Classic Point,Mumbai,Thai,4.0,0
+R0558,Urban's House,Chennai,Healthy Food,4.5,0
+R0559,Spicy Palace,Delhi,Mexican,4.0,1
+R0560,Spicy Point,Hyderabad,Pizza,3.8,1
+R0561,Urban Hub,Mumbai,Mexican,4.5,1
+R0562,Golden Dhaba,Bangalore,Mughlai,4.5,1
+R0563,Grand's Palace,Mumbai,Biryani,3.5,1
+R0564,Delhi's Kitchen,Bangalore,Seafood,3.0,0
+R0565,Paradise,Mumbai,Italian,4.0,0
+R0566,Royal Kitchen,Bangalore,Burger,4.0,0
+R0567,The Express,Mumbai,Mexican,4.5,0
+R0568,Spicy Kitchen,Delhi,Street Food,4.5,0
+R0569,Modern Restaurant,Hyderabad,Japanese,4.0,0
+R0570,Delight,Lucknow,Continental,4.5,0
+R0571,Urban's Grill,Bangalore,South Indian,3.5,0
+R0572,Modern's Dhaba,Chennai,Thai,3.5,0
+R0573,Classic Hub,Bangalore,Desserts,2.5,0
+R0574,Urban Spice,Bangalore,Beverages,4.5,0
+R0575,Fresh Palace,Mumbai,Mughlai,4.5,0
+R0576,Fresh's Zone,Mumbai,Biryani,4.0,1
+R0577,Tasty Palace,Pune,Street Food,4.0,0
+R0578,Classic Grill,Bangalore,Seafood,3.5,1
+R0579,Tasty Spice,Hyderabad,Fast Food,2.5,0
+R0580,Tasty Express,Bangalore,Cafe,4.5,0
+R0581,Golden Zone,Delhi,Chinese,3.5,0
+R0582,Spicy's Grill,Bangalore,Seafood,5.0,0
+R0583,Spicy Dhaba,Hyderabad,Mexican,4.0,0
+R0584,Priya's Bistro,Mumbai,Desserts,5.0,0
+R0585,Royal Express,Bangalore,North Indian,3.0,1
+R0586,Urban House,Bangalore,Bakery,3.0,1
+R0587,Urban Restaurant,Lucknow,Street Food,3.5,1
+R0588,Grand's Zone,Delhi,Pizza,4.0,1
+R0589,Elite's Paradise,Hyderabad,Mexican,5.0,0
+R0590,Royal Hub,Mumbai,Bakery,4.5,0
+R0591,Urban Dhaba,Mumbai,Cafe,4.5,0
+R0592,Modern Zone,Pune,North Indian,3.2,0
+R0593,Elite's Spice,Chennai,Continental,4.0,1
+R0594,Royal Kitchen,Delhi,South Indian,3.2,1
+R0595,Spicy Station,Bangalore,Cafe,3.2,1
+R0596,Anand's Point,Mumbai,Chinese,4.0,1
+R0597,Grand's Kitchen,Chennai,Thai,3.5,0
+R0598,Modern Hub,Mumbai,Biryani,4.5,0
+R0599,Fresh Zone,Chennai,Cafe,4.0,0
+R0600,Fresh Grill,Hyderabad,Burger,5.0,1
+R0601,The Junction,Delhi,Desserts,3.5,1
+R0602,Tasty's Zone,Pune,Fast Food,4.5,0
+R0603,Fresh's Paradise,Lucknow,South Indian,4.5,0
+R0604,The Paradise,Delhi,Thai,3.5,0
+R0605,Corner,Kolkata,Thai,4.0,0
+R0606,Modern Kitchen,Chennai,Thai,3.5,1
+R0607,Urban Restaurant,Chennai,Mexican,4.5,0
+R0608,Modern Grill,Jaipur,Street Food,5.0,0
+R0609,Spicy's Palace,Bangalore,Mexican,4.0,0
+R0610,Priya's Point,Chennai,Desserts,5.0,1
+R0611,Modern Delight,Kolkata,Beverages,3.5,0
+R0612,Modern Palace,Bangalore,South Indian,4.5,0
+R0613,Fresh Kitchen,Bangalore,Cafe,3.2,0
+R0614,Delight,Delhi,Pizza,4.0,0
+R0615,Hub,Kolkata,Seafood,3.2,0
+R0616,Bangalore's Kitchen,Chennai,Bakery,4.5,1
+R0617,Tasty Point,Bangalore,Cafe,4.0,1
+R0618,Fresh's Corner,Bangalore,Cafe,3.2,0
+R0619,Kitchen,Mumbai,Pizza,3.0,0
+R0620,Tasty's Express,Mumbai,Pizza,3.0,1
+R0621,Ravi's Corner,Bangalore,Burger,4.5,0
+R0622,House,Bangalore,Seafood,5.0,0
+R0623,Urban Spice,Kolkata,Fast Food,5.0,0
+R0624,Golden Junction,Hyderabad,Continental,3.5,0
+R0625,Spicy Station,Ahmedabad,Italian,4.2,0
+R0626,Anand's Junction,Mumbai,South Indian,4.5,1
+R0627,Mumbai's Station,Lucknow,South Indian,3.8,1
+R0628,Ravi's Express,Delhi,Cafe,4.0,0
+R0629,Urban Express,Hyderabad,Continental,4.5,1
+R0630,Delhi's Station,Bangalore,North Indian,2.5,0
+R0631,Premium's Delight,Delhi,Desserts,4.0,0
+R0632,Urban's Corner,Mumbai,North Indian,4.2,0
+R0633,Premium's Corner,Mumbai,Mughlai,4.0,0
+R0634,Spicy Grill,Chennai,Beverages,4.0,1
+R0635,Ravi's Paradise,Delhi,Healthy Food,3.8,1
+R0636,Royal Kitchen,Jaipur,Chinese,4.2,1
+R0637,The Station,Delhi,Italian,4.0,0
+R0638,Urban's Zone,Lucknow,Fast Food,3.5,0
+R0639,Elite's Station,Delhi,Beverages,5.0,0
+R0640,Classic Zone,Mumbai,Japanese,3.8,1
+R0641,Grill,Delhi,Italian,4.5,0
+R0642,Golden Palace,Pune,Cafe,4.5,0
+R0643,Tasty Delight,Bangalore,Thai,5.0,0
+R0644,Mumbai's Station,Mumbai,Healthy Food,3.5,0
+R0645,Modern Express,Delhi,Burger,4.2,1
+R0646,Urban Grill,Delhi,North Indian,4.0,1
+R0647,Spicy Palace,Hyderabad,Desserts,4.5,1
+R0648,Station,Delhi,Italian,4.5,1
+R0649,Royal Grill,Chennai,North Indian,4.5,0
+R0650,Tasty Station,Hyderabad,Beverages,4.5,0
+R0651,Spicy Grill,Pune,Burger,4.7,0
+R0652,Royal Delight,Bangalore,Bakery,4.5,1
+R0653,Kitchen,Delhi,Bakery,5.0,0
+R0654,Elite's Restaurant,Lucknow,Healthy Food,3.0,0
+R0655,Delight,Delhi,Chinese,5.0,0
+R0656,Fresh Grill,Bangalore,Pizza,4.0,0
+R0657,Royal Delight,Kolkata,Bakery,3.5,0
+R0658,Urban's Grill,Mumbai,Desserts,3.5,0
+R0659,Restaurant,Bangalore,Desserts,4.5,1
+R0660,Tasty Spice,Mumbai,Continental,4.7,0
+R0661,Golden Palace,Mumbai,Bakery,4.5,0
+R0662,Urban's Kitchen,Mumbai,Continental,4.0,1
+R0663,Fresh's Spice,Mumbai,Beverages,4.0,0
+R0664,Spicy Station,Bangalore,Beverages,4.5,0
+R0665,Tasty Hub,Kolkata,Healthy Food,3.5,0
+R0666,Tasty Grill,Hyderabad,South Indian,4.0,0
+R0667,The Grill,Hyderabad,Desserts,4.5,0
+R0668,Golden Corner,Bangalore,Seafood,4.2,0
+R0669,Tasty Paradise,Kolkata,Burger,4.0,1
+R0670,Classic Dhaba,Pune,Bakery,4.0,0
+R0671,Fresh Station,Pune,Healthy Food,5.0,0
+R0672,Golden Station,Kolkata,Chinese,4.5,0
+R0673,Mumbai's Corner,Mumbai,Italian,2.5,1
+R0674,Modern's Corner,Hyderabad,North Indian,4.0,1
+R0675,Junction,Hyderabad,Italian,4.0,0
+R0676,Classic Kitchen,Bangalore,Pizza,4.7,0
+R0677,Ravi's Paradise,Bangalore,Cafe,3.5,1
+R0678,Tasty Paradise,Mumbai,Cafe,4.5,0
+R0679,Fresh Point,Mumbai,North Indian,4.0,0
+R0680,Fresh Restaurant,Ahmedabad,Street Food,4.5,0
+R0681,Golden Hub,Hyderabad,Street Food,5.0,0
+R0682,Tasty Point,Delhi,Fast Food,4.5,0
+R0683,Classic Restaurant,Delhi,Mexican,5.0,0
+R0684,Tasty's Junction,Hyderabad,Cafe,4.0,0
+R0685,The Express,Bangalore,South Indian,4.7,0
+R0686,Spicy Zone,Bangalore,Beverages,4.0,0
+R0687,Anand's House,Mumbai,Beverages,3.5,0
+R0688,Golden Corner,Mumbai,Street Food,4.0,1
+R0689,Classic House,Bangalore,North Indian,4.5,0
+R0690,Royal Paradise,Chennai,Cafe,5.0,0
+R0691,Royal Hub,Mumbai,Street Food,4.5,0
+R0692,Grand's Kitchen,Delhi,Continental,4.5,0
+R0693,Urban's Station,Chennai,Beverages,5.0,0
+R0694,Urban Paradise,Kolkata,Japanese,5.0,0
+R0695,Delight,Mumbai,Bakery,4.5,0
+R0696,Tasty Point,Chennai,Pizza,5.0,0
+R0697,Royal Point,Jaipur,Seafood,4.5,1
+R0698,Urban Hub,Ahmedabad,Mughlai,3.0,1
+R0699,Classic Point,Kolkata,Healthy Food,3.0,1
+R0700,The Bistro,Chennai,Desserts,4.2,0
+R0701,Station,Delhi,Mughlai,3.5,0
+R0702,Fresh Cafe,Hyderabad,South Indian,4.0,1
+R0703,Classic's Kitchen,Hyderabad,Biryani,3.8,0
+R0704,Priya's Dhaba,Bangalore,South Indian,3.5,1
+R0705,Fresh's Dhaba,Bangalore,Desserts,5.0,0
+R0706,Golden Cafe,Chennai,Street Food,5.0,0
+R0707,Zone,Jaipur,Pizza,4.7,0
+R0708,Urban House,Delhi,Italian,4.0,0
+R0709,The Junction,Delhi,Cafe,4.0,0
+R0710,Spicy Kitchen,Hyderabad,Cafe,3.2,0
+R0711,Modern Grill,Mumbai,Mughlai,4.0,0
+R0712,The Cafe,Hyderabad,Mughlai,4.5,0
+R0713,Tasty's Bistro,Mumbai,Pizza,4.5,0
+R0714,Priya's Cafe,Bangalore,Seafood,4.0,0
+R0715,Chennai's Express,Hyderabad,Seafood,3.8,0
+R0716,Spicy's Paradise,Mumbai,Continental,4.5,0
+R0717,Chennai's Junction,Delhi,Desserts,3.0,0
+R0718,Point,Delhi,Japanese,3.5,0
+R0719,Ravi's Express,Delhi,Seafood,3.5,1
+R0720,Urban Bistro,Chennai,Fast Food,4.0,0
+R0721,Classic Grill,Bangalore,Beverages,4.5,1
+R0722,Priya's Bistro,Bangalore,Cafe,3.5,1
+R0723,Urban Grill,Bangalore,North Indian,4.0,0
+R0724,Modern's Grill,Mumbai,Beverages,3.2,0
+R0725,Classic's Zone,Kolkata,Pizza,4.5,0
+R0726,Urban Palace,Mumbai,Italian,4.0,0
+R0727,Golden Spice,Kolkata,Italian,4.2,1
+R0728,Fresh Grill,Hyderabad,Biryani,4.0,1
+R0729,Golden Paradise,Bangalore,South Indian,3.2,0
+R0730,Spicy's Point,Chennai,Chinese,4.5,0
+R0731,Golden's Corner,Pune,Pizza,4.5,1
+R0732,Spicy Paradise,Jaipur,Bakery,5.0,1
+R0733,Anand's Palace,Hyderabad,Beverages,4.5,0
+R0734,Modern Hub,Mumbai,Street Food,5.0,0
+R0735,Golden Dhaba,Pune,Continental,5.0,0
+R0736,Spicy Point,Mumbai,Street Food,4.0,0
+R0737,Fresh's Grill,Kolkata,Chinese,4.0,1
+R0738,Premium's Dhaba,Chennai,Desserts,3.2,1
+R0739,Fresh Palace,Ahmedabad,Thai,4.5,1
+R0740,Golden Paradise,Pune,Japanese,2.5,0
+R0741,Classic Cafe,Mumbai,Thai,4.5,1
+R0742,Fresh House,Hyderabad,Italian,4.5,0
+R0743,Urban Delight,Mumbai,Pizza,3.0,0
+R0744,Fresh's Delight,Mumbai,Italian,4.0,0
+R0745,Spicy Paradise,Bangalore,Fast Food,4.5,0
+R0746,Urban Palace,Mumbai,Cafe,4.5,0
+R0747,Delhi's House,Chennai,Thai,4.5,0
+R0748,Spice,Jaipur,Mughlai,4.5,0
+R0749,House,Hyderabad,Chinese,4.5,1
+R0750,Spicy's House,Delhi,Healthy Food,5.0,0
+R0751,Modern Cafe,Pune,South Indian,4.0,0
+R0752,Royal Bistro,Pune,North Indian,4.5,0
+R0753,Delhi's Corner,Chennai,Street Food,3.5,1
+R0754,Delhi's Palace,Hyderabad,Desserts,4.5,0
+R0755,Classic Corner,Pune,Street Food,4.0,0
+R0756,Ravi's Junction,Mumbai,Cafe,4.0,1
+R0757,Urban Dhaba,Ahmedabad,Desserts,4.0,0
+R0758,Fresh Kitchen,Jaipur,Biryani,3.5,0
+R0759,Royal Hub,Pune,Continental,4.5,1
+R0760,Classic Paradise,Delhi,Thai,4.7,0
+R0761,Modern Delight,Pune,Japanese,4.0,1
+R0762,Urban Kitchen,Bangalore,Healthy Food,4.5,0
+R0763,Tasty Delight,Hyderabad,Beverages,4.5,0
+R0764,Tasty Zone,Pune,North Indian,4.0,0
+R0765,Tasty Zone,Mumbai,Mexican,3.5,1
+R0766,Modern Spice,Delhi,Biryani,4.0,0
+R0767,Tasty's Delight,Kolkata,Japanese,5.0,0
+R0768,Delhi's House,Kolkata,Continental,4.0,0
+R0769,Classic Point,Pune,Mexican,3.5,0
+R0770,Golden's Palace,Mumbai,Chinese,4.0,1
+R0771,Classic's Junction,Chennai,Continental,4.5,1
+R0772,Ravi's Station,Mumbai,Biryani,4.5,0
+R0773,Fresh Point,Kolkata,Italian,4.0,0
+R0774,Fresh Palace,Delhi,Chinese,4.5,0
+R0775,Ravi's Paradise,Chennai,Mexican,4.5,0
+R0776,Elite's Point,Bangalore,Desserts,3.0,1
+R0777,Classic Restaurant,Lucknow,Italian,4.0,0
+R0778,Golden Kitchen,Hyderabad,Chinese,4.5,0
+R0779,Priya's Cafe,Hyderabad,Italian,4.5,0
+R0780,Modern Station,Delhi,Seafood,4.5,0
+R0781,The Delight,Chennai,North Indian,4.5,0
+R0782,Royal Junction,Bangalore,Continental,4.0,1
+R0783,Premium's Delight,Mumbai,North Indian,4.0,0
+R0784,Priya's Palace,Hyderabad,Japanese,4.5,0
+R0785,Golden Express,Kolkata,North Indian,4.5,0
+R0786,Modern Dhaba,Delhi,Healthy Food,3.5,1
+R0787,Spicy Hub,Delhi,Italian,3.8,0
+R0788,Grand's Kitchen,Hyderabad,Street Food,4.5,0
+R0789,Golden Hub,Kolkata,Japanese,4.0,0
+R0790,Mumbai's Spice,Delhi,Seafood,4.5,0
+R0791,Modern Cafe,Ahmedabad,Biryani,3.0,1
+R0792,Classic Kitchen,Ahmedabad,South Indian,4.5,0
+R0793,Delhi's Corner,Delhi,South Indian,4.5,0
+R0794,Modern Palace,Delhi,Thai,3.5,0
+R0795,Fresh Point,Chennai,Continental,5.0,0
+R0796,Spice,Jaipur,Fast Food,5.0,0
+R0797,Golden Dhaba,Chennai,Chinese,3.5,1
+R0798,Bangalore's Station,Bangalore,Beverages,4.0,0
+R0799,Spicy Restaurant,Mumbai,Desserts,3.5,1
+R0800,Fresh Hub,Bangalore,Fast Food,5.0,0
+R0801,Modern Hub,Hyderabad,Bakery,4.0,1
+R0802,Anand's Dhaba,Delhi,Cafe,4.0,0
+R0803,Tasty Restaurant,Bangalore,Street Food,4.0,0
+R0804,Classic's Cafe,Mumbai,Thai,4.0,0
+R0805,Delhi's Corner,Bangalore,Biryani,4.5,0
+R0806,Premium's Zone,Mumbai,Burger,4.5,0
+R0807,Chennai's Zone,Mumbai,Desserts,4.5,1
+R0808,Modern's Junction,Pune,Continental,4.5,1
+R0809,Golden Kitchen,Delhi,Mexican,4.5,0
+R0810,Priya's Corner,Hyderabad,Bakery,3.0,0
+R0811,Urban Cafe,Mumbai,Italian,3.5,0
+R0812,Classic's Point,Delhi,Italian,4.0,1
+R0813,The Express,Delhi,Bakery,4.5,0
+R0814,Spicy's Cafe,Mumbai,Italian,3.2,0
+R0815,Tasty Delight,Mumbai,Mexican,3.0,1
+R0816,Spicy Corner,Pune,Mughlai,4.0,0
+R0817,Fresh's Delight,Mumbai,Seafood,4.0,1
+R0818,Spicy Zone,Mumbai,Mughlai,5.0,0
+R0819,The Junction,Kolkata,Beverages,5.0,1
+R0820,Classic Kitchen,Delhi,Desserts,4.0,0
+R0821,Fresh's Restaurant,Chennai,Continental,4.5,0
+R0822,Tasty's Point,Mumbai,Bakery,4.5,1
+R0823,The Point,Delhi,Chinese,3.5,0
+R0824,Tasty Zone,Hyderabad,Burger,4.0,0
+R0825,Royal Express,Lucknow,Desserts,4.5,0
+R0826,Elite's Cafe,Mumbai,Mexican,3.0,0
+R0827,Classic Hub,Bangalore,Mexican,4.0,1
+R0828,Urban Station,Mumbai,Biryani,3.5,0
+R0829,Urban Junction,Mumbai,Cafe,4.5,1
+R0830,Urban Spice,Ahmedabad,Mexican,5.0,0
+R0831,Tasty Palace,Mumbai,Burger,4.5,0
+R0832,Delight,Pune,Continental,3.0,1
+R0833,Spicy Delight,Mumbai,Japanese,3.0,0
+R0834,The Zone,Pune,Pizza,4.5,1
+R0835,Urban Corner,Bangalore,Continental,4.0,0
+R0836,Modern Junction,Pune,Mughlai,4.5,0
+R0837,Golden's Express,Mumbai,Thai,3.5,0
+R0838,Fresh Point,Kolkata,South Indian,5.0,0
+R0839,Tasty Delight,Chennai,Burger,2.5,0
+R0840,Spice,Hyderabad,Italian,3.2,0
+R0841,Ravi's Paradise,Kolkata,Desserts,4.0,0
+R0842,Priya's Delight,Hyderabad,Mughlai,4.5,0
+R0843,Modern Grill,Pune,Seafood,4.0,0
+R0844,Fresh's Restaurant,Bangalore,Beverages,5.0,0
+R0845,Royal's Hub,Hyderabad,South Indian,3.5,0
+R0846,Tasty's Junction,Pune,Fast Food,5.0,0
+R0847,Classic's Hub,Delhi,Biryani,4.0,0
+R0848,The Delight,Bangalore,Continental,2.5,0
+R0849,Tasty Paradise,Jaipur,Biryani,4.5,0
+R0850,Ravi's Spice,Bangalore,Thai,4.0,0
+R0851,Modern Paradise,Delhi,Burger,3.2,1
+R0852,Golden's Junction,Delhi,Thai,4.0,0
+R0853,Classic Kitchen,Pune,Seafood,4.2,0
+R0854,Golden Restaurant,Jaipur,Street Food,5.0,1
+R0855,The Palace,Jaipur,Thai,4.7,0
+R0856,Royal Express,Chennai,Pizza,3.5,0
+R0857,Express,Bangalore,South Indian,4.0,1
+R0858,Urban Hub,Mumbai,Biryani,4.5,0
+R0859,Dhaba,Mumbai,Mexican,3.8,1
+R0860,Premium's Station,Mumbai,Fast Food,3.0,1
+R0861,Royal Zone,Mumbai,Pizza,3.0,0
+R0862,Classic Station,Pune,Pizza,4.0,1
+R0863,Mumbai's Dhaba,Kolkata,North Indian,2.5,1
+R0864,Urban Junction,Hyderabad,Mexican,5.0,0
+R0865,Priya's Kitchen,Lucknow,North Indian,4.0,1
+R0866,Tasty Cafe,Jaipur,Healthy Food,3.0,0
+R0867,Bistro,Hyderabad,Mexican,4.5,0
+R0868,Priya's Dhaba,Bangalore,South Indian,4.0,0
+R0869,Spicy Paradise,Mumbai,Healthy Food,4.5,0
+R0870,The Grill,Bangalore,Pizza,4.0,0
+R0871,Fresh Paradise,Mumbai,Chinese,4.5,0
+R0872,Tasty's Paradise,Bangalore,Seafood,2.5,0
+R0873,Tasty Corner,Jaipur,Cafe,4.5,0
+R0874,Tasty Hub,Delhi,Biryani,4.0,0
+R0875,Tasty Zone,Mumbai,Thai,5.0,0
+R0876,Grand's House,Hyderabad,Desserts,4.0,0
+R0877,The Palace,Hyderabad,Beverages,3.2,1
+R0878,The Dhaba,Mumbai,Continental,3.5,0
+R0879,Tasty Point,Mumbai,Thai,5.0,0
+R0880,Bangalore's Zone,Lucknow,Fast Food,3.5,0
+R0881,Bangalore's Point,Delhi,Desserts,3.5,0
+R0882,Delhi's House,Kolkata,Healthy Food,4.0,0
+R0883,Royal Restaurant,Bangalore,Healthy Food,4.2,1
+R0884,Modern Spice,Bangalore,Healthy Food,4.7,1
+R0885,The Junction,Delhi,Healthy Food,4.0,0
+R0886,The Cafe,Kolkata,Desserts,3.5,0
+R0887,Spice,Pune,Beverages,4.0,0
+R0888,Royal Zone,Delhi,Desserts,4.0,0
+R0889,Chennai's Corner,Mumbai,Seafood,5.0,0
+R0890,Spicy Express,Mumbai,Japanese,4.0,0
+R0891,Tasty Grill,Kolkata,Desserts,5.0,0
+R0892,Classic Dhaba,Bangalore,Seafood,4.5,0
+R0893,Royal Palace,Mumbai,Street Food,4.5,1
+R0894,Classic Corner,Delhi,South Indian,5.0,0
+R0895,Modern Corner,Bangalore,Beverages,3.5,1
+R0896,Royal Restaurant,Pune,Bakery,3.5,0
+R0897,Spicy House,Hyderabad,Beverages,5.0,0
+R0898,The Dhaba,Mumbai,South Indian,4.0,0
+R0899,Tasty Station,Mumbai,South Indian,3.0,1
+R0900,Restaurant,Bangalore,Bakery,3.2,1
+R0901,Golden Corner,Mumbai,North Indian,4.5,0
+R0902,Mumbai's Hub,Chennai,Japanese,4.0,0
+R0903,Urban Zone,Bangalore,Seafood,4.5,0
+R0904,Modern Express,Delhi,Burger,4.0,0
+R0905,The Dhaba,Bangalore,Pizza,4.2,0
+R0906,Spicy Zone,Chennai,Continental,3.5,0
+R0907,Modern Point,Hyderabad,Japanese,4.5,0
+R0908,Urban Station,Kolkata,Beverages,5.0,0
+R0909,Modern Corner,Hyderabad,Burger,4.5,0
+R0910,Classic Dhaba,Kolkata,Bakery,5.0,0
+R0911,Modern's Paradise,Chennai,Continental,3.8,0
+R0912,Junction,Mumbai,Cafe,4.5,0
+R0913,Delight,Mumbai,Thai,4.0,1
+R0914,Fresh Hub,Ahmedabad,Thai,4.5,0
+R0915,Tasty House,Jaipur,Biryani,3.2,0
+R0916,Dhaba,Chennai,Healthy Food,4.0,0
+R0917,Golden Station,Chennai,Cafe,4.5,1
+R0918,Ravi's Cafe,Delhi,Seafood,4.5,0
+R0919,The House,Hyderabad,Street Food,3.5,1
+R0920,Spicy Restaurant,Lucknow,Burger,3.5,0
+R0921,Grand's Restaurant,Pune,Thai,4.2,0
+R0922,Point,Delhi,Beverages,4.5,0
+R0923,Hub,Delhi,Japanese,3.5,0
+R0924,Royal's Kitchen,Bangalore,North Indian,2.5,0
+R0925,Priya's Junction,Bangalore,Seafood,4.5,0
+R0926,Classic Bistro,Delhi,Italian,5.0,0
+R0927,Fresh's House,Hyderabad,Continental,3.5,0
+R0928,Modern Dhaba,Mumbai,Italian,3.2,0
+R0929,Urban Delight,Kolkata,North Indian,4.5,0
+R0930,Golden Point,Chennai,Desserts,4.5,0
+R0931,The Corner,Kolkata,North Indian,3.0,0
+R0932,Fresh Bistro,Pune,Cafe,4.0,0
+R0933,Fresh Dhaba,Hyderabad,Fast Food,4.0,0
+R0934,Royal Express,Kolkata,Thai,3.8,0
+R0935,Spicy Hub,Bangalore,Desserts,3.5,0
+R0936,Tasty's Restaurant,Jaipur,Thai,4.5,0
+R0937,Express,Mumbai,Biryani,3.0,0
+R0938,Golden Junction,Ahmedabad,Mughlai,3.5,0
+R0939,Modern's Grill,Delhi,Bakery,4.0,1
+R0940,The Junction,Mumbai,South Indian,5.0,0
+R0941,Fresh Zone,Bangalore,Chinese,5.0,0
+R0942,The Delight,Hyderabad,Bakery,4.2,1
+R0943,Classic Dhaba,Delhi,South Indian,3.2,0
+R0944,Cafe,Hyderabad,Seafood,3.5,1
+R0945,Urban Cafe,Kolkata,Mughlai,5.0,0
+R0946,Fresh Hub,Delhi,Street Food,4.5,0
+R0947,Tasty Hub,Hyderabad,Continental,2.5,0
+R0948,Modern Cafe,Delhi,Desserts,3.5,1
+R0949,Fresh's Dhaba,Bangalore,Cafe,5.0,0
+R0950,Corner,Chennai,North Indian,3.5,0
+R0951,Classic Express,Delhi,Cafe,4.0,0
+R0952,Golden's Grill,Lucknow,Seafood,3.0,0
+R0953,Chennai's House,Hyderabad,Continental,3.5,0
+R0954,Tasty Zone,Kolkata,Japanese,4.0,0
+R0955,Spicy Express,Chennai,Continental,5.0,0
+R0956,Fresh Hub,Pune,Thai,5.0,0
+R0957,Mumbai's Point,Mumbai,Italian,4.0,1
+R0958,Classic Spice,Delhi,Healthy Food,3.5,0
+R0959,Modern Delight,Bangalore,Beverages,4.0,1
+R0960,Spicy Palace,Pune,Biryani,3.2,0
+R0961,Golden's Palace,Mumbai,Italian,3.5,0
+R0962,The Cafe,Lucknow,Japanese,4.5,0
+R0963,Delhi's Dhaba,Mumbai,South Indian,3.5,0
+R0964,Dhaba,Mumbai,Biryani,4.5,0
+R0965,Chennai's Station,Mumbai,Continental,3.5,1
+R0966,Delhi's Restaurant,Hyderabad,Thai,3.5,0
+R0967,The Restaurant,Ahmedabad,South Indian,3.5,0
+R0968,Royal Grill,Delhi,Street Food,4.0,0
+R0969,Point,Hyderabad,Seafood,4.0,0
+R0970,Restaurant,Mumbai,Beverages,4.5,0
+R0971,Delhi's Junction,Hyderabad,Street Food,3.5,1
+R0972,Tasty Hub,Mumbai,Mughlai,3.5,0
+R0973,Modern Cafe,Bangalore,Pizza,3.5,0
+R0974,Fresh's Dhaba,Hyderabad,Pizza,2.5,0
+R0975,Chennai's Paradise,Hyderabad,Desserts,4.5,0
+R0976,Spicy Kitchen,Mumbai,Desserts,4.5,1
+R0977,Spicy Paradise,Mumbai,Continental,4.0,0
+R0978,Golden House,Chennai,Cafe,4.0,0
+R0979,Fresh's Delight,Kolkata,Burger,3.0,1
+R0980,Bangalore's Spice,Ahmedabad,Seafood,4.5,0
+R0981,Royal Junction,Kolkata,Thai,4.5,0
+R0982,Fresh House,Lucknow,Continental,3.2,0
+R0983,Golden Corner,Bangalore,Street Food,3.2,0
+R0984,Paradise,Delhi,Bakery,4.0,0
+R0985,Priya's Zone,Mumbai,Chinese,4.0,0
+R0986,Urban's Junction,Bangalore,Healthy Food,3.5,1
+R0987,Spicy's Kitchen,Hyderabad,Seafood,4.0,0
+R0988,Delight,Kolkata,Desserts,3.8,0
+R0989,Fresh Dhaba,Delhi,Seafood,3.5,0
+R0990,The Point,Bangalore,Bakery,4.2,0
+R0991,Royal's Grill,Chennai,Desserts,4.5,0
+R0992,Royal Kitchen,Hyderabad,Mexican,4.5,1
+R0993,Tasty Restaurant,Delhi,Beverages,3.5,0
+R0994,Tasty Corner,Kolkata,Mughlai,4.5,0
+R0995,Priya's Express,Mumbai,Thai,4.5,0
+R0996,Bangalore's Express,Ahmedabad,Mughlai,4.0,1
+R0997,Mumbai's Dhaba,Jaipur,Thai,4.0,0
+R0998,Royal House,Delhi,Cafe,3.5,0
+R0999,Delight,Delhi,Pizza,4.5,0
+R1000,Royal Grill,Chennai,Italian,4.0,1

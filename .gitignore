@@ -1,0 +1,13 @@
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+
+# Shiny cache
+shiny_bookmarks/
